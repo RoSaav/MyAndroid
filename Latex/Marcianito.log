@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.6)  17 APR 2016 19:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.6)  17 APR 2016 22:01
 entering extended mode
 **./Marcianito.tex
 (Marcianito.tex
@@ -594,12 +594,12 @@ e 113.
 (pdftex.def)             Requested size: 256.95937pt x 150.56212pt.
  [5 <./layout-2016-04-17-esp_tab_lay.png> <./layout-2016-04-17-esp_tab_laylan.p
 ng>]
-<layout-2016-04-17-esp_TV.png, id=39, 1927.2pt x 1084.05pt>
+<layout-2016-04-17-esp_TV.png, id=39, 1927.2pt x 1031.855pt>
 File: layout-2016-04-17-esp_TV.png Graphic file (type png)
 
 <use layout-2016-04-17-esp_TV.png>
 Package pdftex.def Info: layout-2016-04-17-esp_TV.png used on input line 123.
-(pdftex.def)             Requested size: 385.43318pt x 216.80615pt.
+(pdftex.def)             Requested size: 385.43318pt x 206.36734pt.
 
 Overfull \hbox (40.43318pt too wide) in paragraph at lines 123--124
  [] 
@@ -640,7 +640,7 @@ mcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/lm/lmr17.pfb>
-Output written on Marcianito.pdf (7 pages, 808735 bytes).
+Output written on Marcianito.pdf (7 pages, 805469 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
